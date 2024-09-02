@@ -15,4 +15,4 @@ Commonly used in scenarios like event handling systems, MVC architecture, and re
 
 ## Example
 
-A classic example is a notification system (**Subject**) that notifies subscribers (**Observers**) about updates depending on the system.
+A classic example is a notification system (**Subject**) that notifies subscribers (**Observers**) about updates depending on the system
